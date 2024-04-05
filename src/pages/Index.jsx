@@ -17,7 +17,7 @@ const Index = () => {
           <Heading as="h2" size="2xl" mb={4}>
             Education
           </Heading>
-          <Text>Hamilton was largely self-educated, reading extensively on his own. His employers recognized his talents and sent him to study at King's College (now Columbia University) in New York. However, his collegiate studies were interrupted by the outbreak of the American Revolution.</Text>
+          <Text>As a teenager, Hamilton's prolific writing abilities impressed his employers who collected funds to send him to the North American colonies for education. He arrived in New York in 1772 and began studies at King's College (now Columbia University). His college education was cut short by the American Revolution, but Hamilton made the most of this brief opportunity, accelerating his course load to graduate early.</Text>
         </Box>
 
         <Box id="career">
